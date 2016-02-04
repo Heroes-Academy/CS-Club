@@ -1,5 +1,6 @@
-# HEROES Academy Github page
+# (H)EROES (A)cademy (C)omputer (S)cience club
+## HACS.club 
 
-View this page [here](http://heroes-academy.github.io) or [here](http://heroes.ada.sh).  
+View this page [here](http://heroes-academy.github.io/CS-Club) or [here](http://hacs.club).  
 
 Also, check out [HEROES Academy](http://heroesgifted.org)!
