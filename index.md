@@ -21,6 +21,6 @@ So, this page is just going to link to the current courses, for now.
 
 There are so many reasons, but here's a pretty good one.
 
-Play with the code below.  `Are you curious what this is? <{{ site.github.url }}/trinkets.html>`
+Play with the code below.  [Are you curious what this is?]({{ site.github.url }}/trinkets.html)
 
 <iframe src="https://trinket.io/embed/python/0e731cdd38" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
