@@ -12,9 +12,9 @@ For now, the club is in its infancy.
 So, this page is just going to link to the current courses, for now.
 
 ### Current courses with content on github:
-1. [Intro to AI: Agents and Games](http://ai-winter-2016.readthedocs.org/en/latest/index.html)
-2. [Data Structures](http://datastructures-winter-2016.readthedocs.org/)
-3. [Introduction to Python](http://intropython-winter-2016.readthedocs.org/en/latest/)
+1. [Intro to AI: Agents and Games](http://ai.hacs.club)
+2. [Data Structures](http://ds.hacs.club)
+3. [Introduction to Python](http://intro.hacs.club)
 
 
 # Why is Computer Science awesome?
