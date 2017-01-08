@@ -6,7 +6,7 @@ layout: default
 
 links to current courses:
 
-[Intro to Python](http://intropython-fall2016.readthedocs.io/en/latest/)
+[Intro to Python](http://intropython-winter2017.readthedocs.io/en/latest/)
 
 
-[OOP](http://oop-fall2016.readthedocs.io/en/latest/index.html)
+[Data Structures](http://datastructures-winter2017.readthedocs.io/en/latest/index.html)
