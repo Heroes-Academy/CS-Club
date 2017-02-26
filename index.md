@@ -10,3 +10,8 @@ links to current courses:
 
 
 [Data Structures](http://datastructures-winter2017.readthedocs.io/en/latest/index.html)
+
+
+link to the cookbook: 
+
+[HEROES Academy Computer Science Cookbook](http://cookbooks.readthedocs.io/)
